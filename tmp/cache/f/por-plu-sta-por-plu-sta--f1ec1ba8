@@ -1,4 +1,4 @@
-a:11:{s:9:"squelette";s:37:"html_034d28912891b39d7dd7b6c5bac08f1d";s:6:"source";s:53:"../plugins-dist/porte_plume/porte_plume_start.js.html";s:11:"process_ins";s:4:"html";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"f/por-plu-sta-por-plu-sta--f1ec1ba8";}s:7:"entetes";a:2:{s:12:"X-Spip-Cache";s:6:"604800";s:12:"Content-Type";s:30:"text/javascript; charset=utf-8";}s:5:"duree";i:604800;s:5:"texte";s:13315:"
+a:11:{s:9:"squelette";s:37:"html_034d28912891b39d7dd7b6c5bac08f1d";s:6:"source";s:50:"plugins-dist/porte_plume/porte_plume_start.js.html";s:11:"process_ins";s:4:"html";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"f/por-plu-sta-por-plu-sta--f1ec1ba8";}s:7:"entetes";a:2:{s:12:"X-Spip-Cache";s:6:"604800";s:12:"Content-Type";s:30:"text/javascript; charset=utf-8";}s:5:"duree";i:604800;s:5:"texte";s:13315:"
 
 
 barre_outils_edition = {"nameSpace":"edition","previewAutoRefresh":false,"onEnter":{"keepDefault":false,"selectionType":"return","replaceWith":"\n"}
@@ -266,4 +266,4 @@ $(window).load(function(){
 
 });
 })(jQuery);
-";s:5:"notes";s:0:"";s:8:"contexte";a:6:{s:4:"page";s:20:"porte_plume_start.js";s:4:"lang";s:2:"fr";s:4:"date";s:19:"2013-03-24 23:22:12";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2013-03-24 23:22:12";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1364167332;s:2:"gz";b:0;}
+";s:5:"notes";s:0:"";s:8:"contexte";a:6:{s:4:"page";s:20:"porte_plume_start.js";s:4:"lang";s:2:"fr";s:4:"date";s:19:"2013-03-25 19:53:39";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2013-03-25 19:53:39";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1364241219;s:2:"gz";b:0;}

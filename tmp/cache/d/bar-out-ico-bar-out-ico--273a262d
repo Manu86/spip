@@ -1,4 +1,4 @@
-a:11:{s:9:"squelette";s:37:"html_b00b6d4852220bd8a5f1394744a664d2";s:6:"source";s:56:"../plugins-dist/porte_plume/barre_outils_icones.css.html";s:11:"process_ins";s:4:"html";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"d/bar-out-ico-bar-out-ico--273a262d";}s:7:"entetes";a:3:{s:12:"X-Spip-Cache";s:6:"604800";s:12:"Content-Type";s:23:"text/css; charset=utf-8";s:4:"Vary";s:15:"Accept-Encoding";}s:5:"duree";i:604800;s:5:"texte";s:5069:"
+a:11:{s:9:"squelette";s:37:"html_b00b6d4852220bd8a5f1394744a664d2";s:6:"source";s:53:"plugins-dist/porte_plume/barre_outils_icones.css.html";s:11:"process_ins";s:4:"html";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"d/bar-out-ico-bar-out-ico--273a262d";}s:7:"entetes";a:3:{s:12:"X-Spip-Cache";s:6:"604800";s:12:"Content-Type";s:23:"text/css; charset=utf-8";s:4:"Vary";s:15:"Accept-Encoding";}s:5:"duree";i:604800;s:5:"texte";s:5069:"
 .markItUp .outil_header1>a>em {background-image:url(//localhost/Spip/plugins-dist/porte_plume/icones_barre/spt-v1.png);background-position:-10px -226px}
 .markItUp .outil_bold>a>em {background-image:url(//localhost/Spip/plugins-dist/porte_plume/icones_barre/spt-v1.png);background-position:-10px -478px}
 .markItUp .outil_italic>a>em {background-image:url(//localhost/Spip/plugins-dist/porte_plume/icones_barre/spt-v1.png);background-position:-10px -586px}
@@ -34,4 +34,4 @@ a:11:{s:9:"squelette";s:37:"html_b00b6d4852220bd8a5f1394744a664d2";s:6:"source";
 
 /* roue ajax */
 .ajaxLoad{background:white url('//localhost/Spip/prive/images/searching.gif') top left no-repeat;}
-";s:5:"notes";s:0:"";s:8:"contexte";a:5:{s:4:"page";s:23:"barre_outils_icones.css";s:4:"date";s:19:"2013-03-24 23:22:12";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2013-03-24 23:22:12";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1364167332;s:2:"gz";b:0;}
+";s:5:"notes";s:0:"";s:8:"contexte";a:5:{s:4:"page";s:23:"barre_outils_icones.css";s:4:"date";s:19:"2013-03-25 19:53:39";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2013-03-25 19:53:39";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1364241219;s:2:"gz";b:0;}

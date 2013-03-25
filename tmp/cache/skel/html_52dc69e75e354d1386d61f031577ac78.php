@@ -3,12 +3,12 @@
 /*
  * Squelette : squelettes-dist/inclure/header.html
  * Date :      Sun, 24 Mar 2013 23:16:33 GMT
- * Compile :   Sun, 24 Mar 2013 23:22:11 GMT
+ * Compile :   Mon, 25 Mar 2013 19:53:38 GMT
  * Boucles :   
  */ 
 //
 // Fonction principale du squelette squelettes-dist/inclure/header.html
-// Temps de compilation total: 4.177 ms
+// Temps de compilation total: 6.643 ms
 //
 
 function html_52dc69e75e354d1386d61f031577ac78($Cache, $Pile, $doublons=array(), $Numrows=array(), $SP=0) {

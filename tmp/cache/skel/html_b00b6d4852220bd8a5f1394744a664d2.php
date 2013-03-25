@@ -1,14 +1,14 @@
 <?php
 
 /*
- * Squelette : ../plugins-dist/porte_plume/barre_outils_icones.css.html
+ * Squelette : plugins-dist/porte_plume/barre_outils_icones.css.html
  * Date :      Sun, 24 Mar 2013 23:16:40 GMT
- * Compile :   Sun, 24 Mar 2013 23:21:59 GMT
+ * Compile :   Mon, 25 Mar 2013 19:53:39 GMT
  * Boucles :   
  */ 
 //
-// Fonction principale du squelette ../plugins-dist/porte_plume/barre_outils_icones.css.html
-// Temps de compilation total: 1.122 ms
+// Fonction principale du squelette plugins-dist/porte_plume/barre_outils_icones.css.html
+// Temps de compilation total: 1.948 ms
 //
 
 function html_b00b6d4852220bd8a5f1394744a664d2($Cache, $Pile, $doublons=array(), $Numrows=array(), $SP=0) {
@@ -30,6 +30,6 @@ interdire_scripts(protocole_implicite(url_absolue(find_in_path('images/searching
 '\') top left no-repeat;}
 ');
 
-	return analyse_resultat_skel('html_b00b6d4852220bd8a5f1394744a664d2', $Cache, $page, '../plugins-dist/porte_plume/barre_outils_icones.css.html');
+	return analyse_resultat_skel('html_b00b6d4852220bd8a5f1394744a664d2', $Cache, $page, 'plugins-dist/porte_plume/barre_outils_icones.css.html');
 }
 ?>
